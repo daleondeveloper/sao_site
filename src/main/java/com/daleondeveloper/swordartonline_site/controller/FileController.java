@@ -11,7 +11,7 @@ import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 import com.daleondeveloper.swordartonline_site.domain.DBFile;
 import com.daleondeveloper.swordartonline_site.dto.UploadFileResponse;
-import com.daleondeveloper.swordartonline_site..service.serviceImpl.DBFileStorageService;
+import com.daleondeveloper.swordartonline_site.service.serviceImpl.DBFileStorageService;
 
 import java.util.Arrays;
 import java.util.List;
